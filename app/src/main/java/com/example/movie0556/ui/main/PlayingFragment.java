@@ -1,4 +1,4 @@
-package com.example.Movie_0603.ui.main;
+package com.example.movie0556.ui.main;
 
 import android.os.Bundle;
 
@@ -11,9 +11,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.Movie_0603.Movie;
-import com.example.Movie_0603.MovieAdapter;
-import com.example.Movie_0603.R;
+import com.example.movie0556.Movie;
+import com.example.movie0556.MovieAdapter;
+import com.example.movie0556.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

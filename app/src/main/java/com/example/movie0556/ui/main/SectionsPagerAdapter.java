@@ -1,4 +1,4 @@
-package com.example.Movie_0603.ui.main;
+package com.example.movie0556.ui.main;
 
 import android.content.Context;
 
@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.Movie_0603.R;
+import com.example.movie0556.R;
 
 /**
  * A [FragmentPagerAdapter] that returns a fragment corresponding to

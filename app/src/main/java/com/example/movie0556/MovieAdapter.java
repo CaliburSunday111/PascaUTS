@@ -1,4 +1,4 @@
-package com.example.Movie_0603;
+package com.example.movie0556;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,6 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.movie0556.R;
 
 import java.util.ArrayList;
 

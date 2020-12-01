@@ -1,4 +1,4 @@
-package com.example.Movie_0603;
+package com.example.movie0556;
 
 import org.junit.Test;
 

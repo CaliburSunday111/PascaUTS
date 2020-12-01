@@ -1,8 +1,9 @@
-package com.example.Movie_0603;
+package com.example.movie0556;
 
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.example.movie0556.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.tabs.TabLayout;
 
@@ -12,7 +13,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.provider.Settings;
 import android.view.View;
 
-import com.example.Movie_0603.ui.main.SectionsPagerAdapter;
+import com.example.movie0556.ui.main.SectionsPagerAdapter;
 
 public class MainActivity extends AppCompatActivity {
 

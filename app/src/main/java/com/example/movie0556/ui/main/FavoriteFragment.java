@@ -1,4 +1,4 @@
-package com.example.Movie_0603.ui.main;
+package com.example.movie0556.ui.main;
 
 import android.os.Bundle;
 
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.Movie_0603.R;
+import com.example.movie0556.R;
 
 /**
  * A simple {@link Fragment} subclass.

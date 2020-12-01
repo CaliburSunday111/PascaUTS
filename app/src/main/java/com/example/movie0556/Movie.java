@@ -1,4 +1,4 @@
-package com.example.Movie_0603;
+package com.example.movie0556;
 
 public class Movie {
     public String getTitle() {
